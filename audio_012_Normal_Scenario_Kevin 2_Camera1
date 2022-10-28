@@ -1,0 +1,44 @@
+,performed_action,uncertainty
+0,Checking Temperature,0.550370011970926
+1,Checking Temperature,0.7433041774875625
+2,Checking Temperature,0.9111300570453569
+3,Checking Temperature,0.9207810333791527
+4,Checking Temperature,0.7530155384371294
+5,Checking Temperature,0.5853323639797575
+6,Opening Doors,0.678795009325511
+7,Opening Doors,0.9040693830145952
+8,Opening Doors,0.5492046247338334
+9,Opening Doors,0.0
+10,Opening Doors,0.0
+11,Removing Plate,0.265099120011765
+12,Removing Plate,0.6067936375174181
+13,Removing Plate,0.7132091625091872
+14,Removing Plate,0.8195371383561977
+15,Removing Plate,0.9258908951526313
+16,Removing Plate,0.802091830595811
+17,Removing Plate,0.6379862392662767
+18,Removing Plate,0.7918486372401247
+19,Removing Plate,0.9422480203423965
+20,Removing Plate,0.9008452204295619
+21,Removing Plate,0.7469510052940085
+22,Removing Plate,0.5933418965510538
+23,Removing Plate,0.055130586674816885
+24,Removing Plate,0.0
+25,Removing Plate,0.0
+26,Cleaning Plate,0.689522736591118
+27,Cleaning Plate,0.8151054810061535
+28,Cleaning Plate,0.10331634371966218
+29,Cleaning Plate,0.0
+30,Cleaning Plate,0.0
+31,Cleaning Plate,0.0
+32,Cleaning Plate,0.0
+33,Putting Plate Back,0.0
+34,Putting Plate Back,0.0
+35,Closing Clamps,0.7057276393689453
+36,Closing Doors,0.7948158842259655
+37,Closing Doors,0.3728361544792987
+38,Closing Clamps,0.0
+39,[],0.0
+40,[],0.0
+41,[],0.0
+42,[],0.0
